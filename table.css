@@ -1,0 +1,85 @@
+h1 {
+    background-color: aqua;
+}
+
+.center {
+    text-align: center;
+}
+
+
+th {
+    border: 3px blue solid;
+    border-collapse: collapse;
+}
+
+
+
+td:first-of-type{
+    border: 1px rgb(248, 127, 14) solid;
+    border-collapse: collapse;
+}
+
+#td1 {
+    border: 2px rgb(208, 13, 13) solid;
+    border-collapse: collapse;
+}
+
+#td2 {
+    border: 2px rgb(240, 105, 199) solid;
+    border-collapse: collapse;
+}
+
+#td3 {
+    border: 2px rgb(123, 223, 109) solid;
+    border-collapse: collapse;
+}
+
+#td4 {
+    border: 2px rgb(224, 233, 102) solid;
+    border-collapse: collapse;
+}
+
+#td5 {
+    border: 2px rgb(48, 134, 204) solid;
+    border-collapse: collapse;
+}
+
+#td6 {
+    border: 2px rgb(89, 115, 102) solid;
+    border-collapse: collapse;
+}
+
+#td7 {
+    border: 2px rgb(126, 18, 227) solid;
+    border-collapse: collapse;
+}
+
+#td8 {
+    border: 2px rgba(4, 2, 4, 0.737) solid;
+    border-collapse: collapse;
+}
+
+#td9 {
+    border: 2px rgb(243, 219, 7) solid;
+    border-collapse: collapse;
+}
+
+#td10 {
+    border: 2px rgb(81, 30, 35) solid;
+    border-collapse: collapse;
+}
+
+#td11 {
+    border: 2px rgb(10, 226, 255) solid;
+    border-collapse: collapse;
+}
+
+#td12 {
+    border: 2px rgb(215, 166, 146) solid;
+    border-collapse: collapse;
+}
+
+#td13 {
+    background-color:aquamarine
+}
+
